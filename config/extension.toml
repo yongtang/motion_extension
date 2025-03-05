@@ -4,5 +4,5 @@ version = "1.0.0"
 title = "Motion Extension"
 description = "An Isaac Sim extension for motion control."
 
-[python]
-module = "motion_extension"
+[[python.module]]
+module = "motion_extention"
